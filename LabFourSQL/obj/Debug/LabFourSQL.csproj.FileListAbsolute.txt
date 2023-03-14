@@ -1,0 +1,14 @@
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\LabFourSQL.exe.config
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\LabFourSQL.exe
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\LabFourSQL.pdb
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\obj\Debug\LabFourSQL.csproj.AssemblyReference.cache
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\obj\Debug\LabFourSQL.csproj.CoreCompileInputs.cache
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\obj\Debug\LabFourSQL.csproj.CopyComplete
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\obj\Debug\LabFourSQL.exe
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\obj\Debug\LabFourSQL.pdb
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\CompanyDB.mdf
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\CompanyDB_log.ldf
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\500600\source\repos\LabFourSQL\LabFourSQL\bin\Debug\System.Data.SqlClient.xml
