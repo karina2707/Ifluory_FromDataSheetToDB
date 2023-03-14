@@ -13,7 +13,7 @@ namespace LabFourSQL
     {
         static void Main(string[] args)
         {
-            /*    string workFile = "C:\\Users\\500600\\Desktop\\Универ\\Информационные системы и технологии\\Мои работы\\InputData(лаб.раб1).xlsm";
+            /*    string workFile = "C:\\#\\InputData.xlsm";
                 List<Company> inputData = ReadDataExcelFileDOM(workFile);
 
              //   DBConnector.WriteDataDB(inputData);
