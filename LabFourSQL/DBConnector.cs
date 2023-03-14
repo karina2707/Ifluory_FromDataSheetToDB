@@ -11,7 +11,7 @@ namespace LabFourSQL
 {
     class DBConnector
     {
-        private static string connectStr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\500600\\source\\repos\\LabFourSQL\\LabFourSQL\\CompanyDB.mdf;Integrated Security=True";
+        private static string connectStr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\#\\LabFourSQL\\LabFourSQL\\CompanyDB.mdf;Integrated Security=True";
 
         public static void WriteDataDB(List<Company> inputArray) {
             using (SqlConnection openCon = new SqlConnection(connectStr)) {
